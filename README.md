@@ -12,6 +12,7 @@ It also includes sales forecasting and a Power BI dashboard for business decisio
 - Machine Learning (Linear Regression)
 
 ## 📂 Project Structure
+```text
 sales-data-analysis/
 │
 ├── data/
@@ -34,6 +35,7 @@ sales-data-analysis/
 │
 ├── README.md
 └── requirements.txt
+```
 
 
 ## 📈 Key Analysis
@@ -54,4 +56,5 @@ Current repository includes all cleaned and analysis-ready datasets.
 
 ## 👩‍💻 Author
 Safiya Sulthana
+
 
