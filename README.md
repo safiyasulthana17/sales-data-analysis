@@ -55,6 +55,6 @@ Current repository includes all cleaned and analysis-ready datasets.
 - Certain regions outperform others
 
 ## 👩‍💻 Author
-Safiya Sulthana
+Shaik Safiya Sulthana
 
 
