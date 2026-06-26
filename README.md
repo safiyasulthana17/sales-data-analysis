@@ -24,19 +24,6 @@ The workflow includes **data cleaning, exploratory data analysis (EDA), SQL-base
 
 ---
 
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| **Programming Language** | Python |
-| **Libraries** | Pandas, NumPy, Matplotlib, Scikit-learn |
-| **Database Queries** | pandasql (SQL) |
-| **Visualization** | Matplotlib, Power BI |
-| **Machine Learning** | Linear Regression |
-| **Development Environment** | Jupyter Notebook |
-
----
-
 ## 📂 Project Structure
 
 ```text
@@ -65,6 +52,20 @@ sales-data-analysis/
 ```
 
 ---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming Language** | Python |
+| **Libraries** | Pandas, NumPy, Matplotlib, Scikit-learn |
+| **Database Queries** | pandasql (SQL) |
+| **Visualization** | Matplotlib, Power BI |
+| **Machine Learning** | Linear Regression |
+| **Development Environment** | Jupyter Notebook |
+
+---
+
 
 ## 📈 Analysis Performed
 
